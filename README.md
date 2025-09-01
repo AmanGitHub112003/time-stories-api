@@ -60,7 +60,7 @@ Python Standard Library
 
 Here’s an example of the API response in your browser after running the server:
 
-![API Response Screenshot](Screenshot (5122).png)
+[![API Response Screenshot](Screenshot (5122).png)](Screenshot (5122).png)
 
 ---
 
